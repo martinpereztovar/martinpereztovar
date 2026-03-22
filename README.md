@@ -59,4 +59,5 @@ Java application that consumes external APIs and processes book data.
 ## 📫 Contact
 
 - GitHub: https://github.com/martinpereztovar
+- LinkedIn: [https://linkedin.com/in/SEU-LINK](https://www.linkedin.com/in/martin-perez-tovar/?locale=en_US)
 - Email: martinpereztovar@gmail.com
