@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Martín Pérez 👋
 
-<!--
-**martinpereztovar/martinpereztovar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on backend development using Java, Spring Boot and Node.js.
 
-Here are some ideas to get you started:
+I build real-world applications, including a production web platform with integrated payments and a trading system using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+**Backend**
+- Java
+- Spring Boot
+- Node.js
+- REST APIs
+- JPA / Hibernate
+- Prisma
+
+**Frontend**
+- React
+- Next.js
+- TypeScript
+- Tailwind
+
+**Cloud & Tools**
+- AWS (S3, Lambda, EventBridge)
+- Git & GitHub
+- SQL / MySQL
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Meu Livro Mágico
+Full stack web application for personalized children’s books with online payments.
+www.meulivromagico.org
+> Production project (code not publicly available)
+
+---
+
+### 🔹 ForumHub API
+REST API built with Spring Boot for a discussion forum.
+
+---
+
+### 🔹 Literalura
+Java application that consumes external APIs and processes book data.
+
+---
+
+## 💡 About Me
+
+- Background in Journalism and Translation  
+- Experience working with real clients and production systems  
+- Focused on clean code, problem-solving and continuous learning  
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/martinpereztovar
+- Email: martinpereztovar@gmail.com
